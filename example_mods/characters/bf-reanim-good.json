@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				119
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF HYPED idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF HYPED NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF HYPED NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				205
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF HYPED NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-48,
+				123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF HYPED NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-44,
+				138
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF HYPED NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				139
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF Hey!"
+		},
+		{
+			"offsets": [
+				14,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "BF Hit0"
+		},
+		{
+			"offsets": [
+				8,
+				138
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "BF Dodge"
+		},
+		{
+			"offsets": [
+				-50,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "BF Pre-Attack"
+		},
+		{
+			"offsets": [
+				244,
+				343
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "BF attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-reanim",
+	"position": [
+		-70,
+		367
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

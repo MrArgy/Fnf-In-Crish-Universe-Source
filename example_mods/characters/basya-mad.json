@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				134,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Basya Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Basya Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				98,
+				65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Basya Sing Note UP"
+		},
+		{
+			"offsets": [
+				-4,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Basya Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 31,
+			"anim": "idle",
+			"loop": false,
+			"name": "Basya idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Basya_Zloy_Pidarasya_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "basya",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		228,
+		246
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

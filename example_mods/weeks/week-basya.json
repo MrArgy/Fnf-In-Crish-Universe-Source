@@ -1,0 +1,50 @@
+{
+	"storyName": "in minecraft for noobs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "basya",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"noobing",
+			"basya",
+			[
+				246,
+				228,
+				246
+			]
+		],
+		[
+			"sponge",
+			"basya",
+			[
+				246,
+				228,
+				246
+			]
+		],
+		[
+			"fightcraft",
+			"basya",
+			[
+				246,
+				228,
+				246
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ncfn",
+	"hiddenUntilUnlocked": false
+}
