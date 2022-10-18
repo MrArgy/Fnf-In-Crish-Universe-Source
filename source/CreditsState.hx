@@ -140,22 +140,6 @@ class CreditsState extends MusicBeatState
 			else optionText.alignment = CENTERED;
 		}
 		
-		upperBar = new AttachedSprite();
-		upperBar.makeGraphic(1280, 720, FlxColor.BLACK);
-		upperBar.xAdd = 0;
-		upperBar.yAdd = -120;
-		//upperBar.alphaMult = 0.6;
-		//upperBar.alpha = 0.6;
-		add(upperBar);
-
-		lowerBar = new AttachedSprite();
-		lowerBar.makeGraphic(1280, 720, FlxColor.BLACK);
-		lowerBar.xAdd = 0;
-		lowerBar.yAdd = 720;
-		//lowerBar.alphaMult = 0.6;
-		//lowerBar.alpha = 0.6;
-		add(lowerBar);
-
 		descBox = new AttachedSprite();
 		descBox.makeGraphic(1, 1, FlxColor.BLACK);
 		descBox.xAdd = -10;
