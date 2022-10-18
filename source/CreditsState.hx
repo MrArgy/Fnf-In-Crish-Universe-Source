@@ -81,7 +81,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['In Crish's Universe team mod']
+			['In Crish's Universe team mod'],
 			['LVBM',		'lvbm',		'Director, Musician, Charter',								'https://idk.com',	'2AA6FE'],
 			['Sanic (solf)',			'solf',			'Main Artist, Musician',							'https;//idk.com',		'0094FF'],
 			['MrArgy',				'argy',			'Main Coder, OpenFL on Lua',						'https://www.youtube.com/c/BeepMrArgyCoderLol',			'0094FF'],
