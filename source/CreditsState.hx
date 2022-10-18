@@ -81,14 +81,6 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['In Crish's Universe team mod'],
-			['LVBM',		'lvbm',		'Director, Musician, Charter',								'https://idk.com',	'2AA6FE'],
-			['Sanic (solf)',			'solf',			'Main Artist, Musician',							'https;//idk.com',		'0094FF'],
-			['MrArgy',				'argy',			'Main Coder, OpenFL on Lua',						'https://www.youtube.com/c/BeepMrArgyCoderLol',			'0094FF'],
-			['RunnerGG',		'runnergg',		'Artist',								'https://www.youtube.com/c/RunnerGGcomradVASH',	'FF0004'],
-			['Sandy',		'sandy',		'Charter',								'https://t.me/SANDY_TIX',	'FFFFFF'],
-			['Kuznec',		'kuz',		'Animator, Artist',								'https://idk.com',	'FFFFFF'],
-			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
@@ -155,7 +147,7 @@ class CreditsState extends MusicBeatState
 		//upperBar.alphaMult = 0.6;
 		//upperBar.alpha = 0.6;
 		add(upperBar);
-		
+
 		lowerBar = new AttachedSprite();
 		lowerBar.makeGraphic(1280, 720, FlxColor.BLACK);
 		lowerBar.xAdd = 0;
@@ -165,7 +157,7 @@ class CreditsState extends MusicBeatState
 		add(lowerBar);
 
 		descBox = new AttachedSprite();
-		descBox.makeGraphic(1, 1, FlxColor.WHITE);
+		descBox.makeGraphic(1, 1, FlxColor.BLACK);
 		descBox.xAdd = -10;
 		descBox.yAdd = -10;
 		descBox.alphaMult = 0.6;
