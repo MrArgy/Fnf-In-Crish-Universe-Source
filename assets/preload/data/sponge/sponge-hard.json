@@ -4571,7 +4571,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "speaker",
 		"splashSkin": "noteSplashes",
 		"song": "sponge",
 		"validScore": true,

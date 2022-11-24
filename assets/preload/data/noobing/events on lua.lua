@@ -2,12 +2,10 @@ function onUpdate()
 	if curStep == 271 then
 	function onBeatHit()
     if curBeat % 1 == 0 then
-        setProperty('camHUD.angle', -2);
-        doTweenAngle('bop', 'camHUD', 0,0.2,'cubicOut');
+        doTweenAngle('bop', 'camHUD', -1,0.5,'cubeInOut');
     end
     if curBeat % 2 == 0 then
-        setProperty('camHUD.angle', 2);
-        doTweenAngle('bop', 'camHUD', 0,0.2,'cubicOut');
+        doTweenAngle('bop', 'camHUD', 1,0.5,'cubeInOut');
     end
 end
 end

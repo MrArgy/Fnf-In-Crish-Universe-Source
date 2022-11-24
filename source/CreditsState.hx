@@ -86,8 +86,8 @@ class CreditsState extends MusicBeatState
 			['Sanic or solf',			'solf',			'Main Artist, Musician',							'https://idk.com',		'FFFFFF'],
 			['MrArgy',				'argy',			'Main Coder, OpenFL on Lua',						'https://www.youtube.com/channel/UC1Lwl_mNQLOlxeU7_RMm_sw',			'0094FF'],
 			['RunnerGG',				'runnergg',			'Artist',						'https://www.youtube.com/c/RunnerGGcomradVASH',			'FF0004'],
-			['Sandy',				'sandy',			'Charter',						'https://t.me/SANDY_TIX',			'FFFFFF'],
-			['Kuznec',				'kuz',			'Animator, Artist',						'https://idk.com',			'FFFFFF']
+			['Sandy',				'sandy',			'Charter',						'https://t.me/SANDY_TIX',			'55CB54'],
+			['Kuznec',				'kuz',			'Animator, Artist',						'https://idk.com',			'55FF00']
 		];
 		
 		for(i in pisspoop){
